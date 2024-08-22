@@ -1,0 +1,15 @@
+.contener {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contener button {
+    font-size: 18px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.ccontener h1{
+    font-size: 18px;
+}
